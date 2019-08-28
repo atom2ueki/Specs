@@ -1,2 +1,2 @@
 # Specs
-private pod for atom2ueki used only.
+public pod made by @atom2ueki.
